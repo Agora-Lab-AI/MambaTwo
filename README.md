@@ -6,6 +6,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/The-Swarm-Corporation/Legal-Swarm-Template?style=social)](https://github.com/The-Swarm-Corporation/Legal-Swarm-Template)
 [![Swarms Framework](https://img.shields.io/badge/Built%20with-Swarms-blue)](https://github.com/kyegomez/swarms)
 
+An open source implementation of Mamba 2 in one file of pytorch
+
+
 
 # Usage
 
